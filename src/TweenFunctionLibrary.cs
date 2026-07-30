@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace EliottChen.Toolkit
+namespace EliottChen.CSharpToolkit
 {
     public static class TweenFunctionLibrary
     {

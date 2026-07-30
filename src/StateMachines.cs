@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace EliottChen.Toolkit
+namespace EliottChen.CSharpToolkit
 {
     /// <summary>
     /// State machine object responsible to handle state, check transitions, change state, and update thems.

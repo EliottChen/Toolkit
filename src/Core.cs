@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace EliottChen.Toolkit
+namespace EliottChen.CSharpToolkit
 {
     /// <summary>
     /// Static class to store Toolkit's versions
